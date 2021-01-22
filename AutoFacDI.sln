@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFacDI.Api", "AutoFacDI.Api\AutoFacDI.Api.csproj", "{EA7634D6-9C61-4E34-AE7C-B4D86FF8EB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFacDI.Core", "AutoFacDI.Core\AutoFacDI.Core.csproj", "{A5D05645-3E98-4783-A2CB-54F96673BACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7634D6-9C61-4E34-AE7C-B4D86FF8EB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7634D6-9C61-4E34-AE7C-B4D86FF8EB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7634D6-9C61-4E34-AE7C-B4D86FF8EB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7634D6-9C61-4E34-AE7C-B4D86FF8EB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D05645-3E98-4783-A2CB-54F96673BACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D05645-3E98-4783-A2CB-54F96673BACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D05645-3E98-4783-A2CB-54F96673BACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D05645-3E98-4783-A2CB-54F96673BACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A7F9538-5B14-44E9-8740-A9759DA3FFC4}
+	EndGlobalSection
+EndGlobal
